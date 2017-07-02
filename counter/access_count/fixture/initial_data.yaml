@@ -1,0 +1,3 @@
+- model: access_count.count
+  pk: 1
+  fields: {count: 0}
